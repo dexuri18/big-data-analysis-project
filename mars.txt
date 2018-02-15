@@ -1,3 +1,2 @@
 this is planet Mars
-
-this is update line 1
+It's probably red
